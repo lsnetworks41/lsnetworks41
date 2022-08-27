@@ -11,8 +11,11 @@
   <img align="center" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" title="SHELL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 </div>
-<br/>
+  
+##
+  
 <div> 
+  <img align="right" src="https://raw.githubusercontent.com/lsnetworks41/lsnetworks41/main/banner.gif" height="100" />
   <a href="https://www.youtube.com/channel/UCy6NZNSgQ6sZWEz4VCAngog" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
  </a>
