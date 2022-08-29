@@ -19,7 +19,7 @@
   <a href="https://www.youtube.com/channel/UCy6NZNSgQ6sZWEz4VCAngog" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
  </a>
- <a href="" target="_blank">
+ <a href="https://discord.com/users/lsnetworks41#6083" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a> 
   <a href = "mailto:suporte@lsnetworks.com.br">
